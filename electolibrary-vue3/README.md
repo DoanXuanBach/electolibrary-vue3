@@ -1,7 +1,6 @@
 # ElectoLibrary — Vue 3 + FastAPI
 
-Ссылка на репозиторий: **https://github.com/USERNAME/electolibrary-vue3**  
-Перед сдачей замените `USERNAME` на свой GitHub-аккаунт и вставьте реальную ссылку.
+Ссылка на репозиторий: **https://github.com/DoanXuanBach/electolibrary-vue3.git**  
 
 ## Описание
 
